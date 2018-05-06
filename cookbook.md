@@ -1,4 +1,4 @@
-# Human activity projec's codebook
+# Human activity project's codebook
 
 This describes the different processing steps of the script
 
